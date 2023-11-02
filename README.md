@@ -9,8 +9,10 @@
 
 ## 🔓 Este repositório está sendo utilizado para desenvolver um desafio técnico proposto pela SmartFit para contratar desenvolvedores Front-End em meados do ano de 2021.
 
-# Link do repositório do desafio:
+### 🔗 Link do repositório do desafio:
 - https://github.com/bioritmo/front-end-code-challenge-smartsite
+
+------
 
 ### 🛠 Tecnologias
 
@@ -18,7 +20,6 @@ As seguintes ferramentas estão sendo usadas:
 
 - [Angular](https://angular.io): É um framework de código aberto usado para construir aplicativos para web baseados em uma única página dinâmica.
 - [Sass](https://sass-lang.com): É uma linguagem de extensão do CSS, a sigla significa “Syntactically Awesome Style Sheets” traduzindo ao pé da letra, "folhas de estilo com uma sintaxe incrível".
-
 
 ------
 
@@ -29,6 +30,8 @@ As seguintes ferramentas estão sendo usadas:
 - Busca unidades com filtros
 - Mostra previsão de resultados encontrados
 - Mostra unidades ao buscar
+
+------
 
 ### 🤝 Caso queira ver o projeto, acesse o link:
 
